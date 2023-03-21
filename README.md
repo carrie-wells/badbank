@@ -19,7 +19,3 @@ Features: This is a banking app that allows you to login/logout, create users, r
 Future improvements: 
 
 License: Distributed under the MIT License. Copyright (c) 2021 MIT
-
-
-
-License: Details of under what type of license (e.g., MIT, Apache) your project is listed. If you don’t know, take a look at your package.json—it will have the default license that you chose when you created your project.
