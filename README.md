@@ -1,4 +1,6 @@
 <h1>BadBank</h1>
+Project Title: Bad Bank
+
 Description/Motivation: BadBank is a full-stack banking application with React app front end using Express, Node, and MongoDB. This is a banking app that allows you to login/logout, create users, record deposits and withdrawals, check account balance, and view user data. 
 
 Installation Guidelines: 
@@ -9,6 +11,15 @@ Clone the repository.
 Install NPM packages: npm install
 Run the Node server node index.js
 Navigate to http://localhost:3000/ to run the application
+
+Technology used: React, Node, MongoDB
+
+Features: This is a banking app that allows you to login/logout, create users, record deposits and withdrawals, check account balance, and view user data. 
+
 Future improvements: 
 
 License: Distributed under the MIT License. Copyright (c) 2021 MIT
+
+
+
+License: Details of under what type of license (e.g., MIT, Apache) your project is listed. If you don’t know, take a look at your package.json—it will have the default license that you chose when you created your project.
